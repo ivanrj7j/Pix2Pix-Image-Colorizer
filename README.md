@@ -95,7 +95,6 @@ Each discriminator block consists of:
 - Batch normalization
 - LeakyReLU activation
 
-For the complete architecture details, please refer to the `models.py` file in the repository.
 
 ## Results
 
