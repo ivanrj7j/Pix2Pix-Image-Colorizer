@@ -48,6 +48,8 @@ This implementation uses a conditional Generative Adversarial Network (cGAN) to 
    pip install -r requirements.txt
    ```
 
+3. Download the model from the releases and paste it into your project
+
 ## Usage
 
 To colorize a black and white image:
